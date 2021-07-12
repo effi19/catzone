@@ -1,0 +1,317 @@
+
+html {
+    font-family: 'Mate SC', serif;
+    background-image: url(./recursos/imagenes/bg4.png)
+}
+li{
+   background-color: rgb(204, 210, 247);
+  
+}
+h3{
+    font-family: 'Mate SC', serif;
+    color: rgb(8, 12, 68);
+   
+}
+
+h1{
+    font-family: 'Mate SC', serif;
+    color: rgb(36, 6, 75);
+    background-image: url(../recursos/imagenes/bg5.png);
+}
+h2{
+    font-family: 'Mate SC', serif;
+    color: rgb(8, 12, 68);
+   
+}
+h4{
+    font-family: 'Mate SC', serif;
+    color: rgb(8, 12, 68);
+    
+}
+h5{
+    font-family: 'Mate SC', serif;
+    color: rgb(8, 12, 68);
+   
+}
+
+h6{
+   
+  
+    font-family: 'Mate SC', serif;
+    color: rgb(8, 12, 68);
+}
+p{
+    color: rgb(36, 8, 102);
+    font-family: 'Mate SC', serif;
+    background-color: ivory;
+}
+
+
+
+.palabra2 {
+    background-color: rgb(0, 68, 114);
+  
+}
+
+.confondo{
+    color: rgb(36, 8, 102);
+    font-family: 'Mate SC', serif;
+  
+    background-image: url(../recursos/imagenes/bg4.png)
+}
+
+section{
+    color: rgb(36, 8, 102);
+    font-family: 'Mate SC', serif;
+  
+    background-image: url(../recursos/imagenes/bg4.png)
+
+}
+
+.verde {
+ 
+    
+    background-color:rgba(189, 212, 255, 0.8)
+}
+
+.lv { 
+color: lime;
+background-color: rgba(0, 0, 0, 0.85)
+}
+
+.rosita {
+    background-color: rgb(255, 91, 123);
+}
+
+
+ul {
+    font-family: 'Mate SC', serif;
+}
+
+li {
+    font-family: 'Mate SC', serif;
+}
+
+
+a {
+    font-family: 'Mate SC', serif;
+}
+
+#body {
+   
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(../recursos/imagenes/bg4.png);
+
+}
+
+.padre {display: flex;
+justify-content:center;
+align-items: center;
+padding: 315px;
+ 
+
+
+}
+
+.btn1, .btn2, .btn3 {
+   
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 24px;
+    text-decoration:none;
+    overflow: hidden;
+    transition: 0.2s
+    }
+
+    .btnc {
+        position: relative;
+        display: inline-block;
+        padding: 15px 30px;
+        font-size: 24px;
+        text-decoration:none;
+        overflow: hidden;
+        transition: 0.2s
+    }
+.btnc:hover {
+    background: midnightblue;
+    box-shadow:0 0 10px rgb(9, 255, 0), 0 0 40px rgb(0, 255, 0), 0 0 80px rgb(30, 255, 0) ;
+}
+    
+  .btn3:hover {
+        background: midnightblue;
+        box-shadow: 0 0 10px rgb(9, 255, 0), 0 0 40px rgb(0, 255, 0), 0 0 80px rgb(30, 255, 0) ;
+       
+
+    }
+
+.btn1:hover {
+    background: midnightblue;
+    box-shadow: 0 0 10px rgb(9, 255, 0), 0 0 40px rgb(0, 255, 0), 0 0 80px rgb(30, 255, 0) ;
+   
+
+}
+.btn2:hover {
+    background: midnightblue;
+    box-shadow: 0 0 10px rgb(9, 255, 0), 0 0 40px rgb(0, 255, 0), 0 0 80px rgb(30, 255, 0) ;
+   
+
+}
+#cabecera {display: flex;
+    
+    padding: 75px;
+    padding-top: 10px;
+   background-image: url(../recursos/imagenes/bg5.png);
+   box-shadow: 50px 30px 30px 50px rgba(0, 255, 0, 0.829);
+   justify-content: center;
+   align-items: center;
+}
+
+#menu {display: flex;
+     float: left;
+     padding-bottom: 515px;
+     justify-content: left;
+  background-color:midnightblue;
+   
+}
+
+.padreo {display: flex;
+    
+    flex-direction: column;
+   
+   
+    
+
+}
+
+.btn1om, .btn2om, .btn3om, .btn4, .btn5 {
+    background-color: rgb(224, 218, 255);
+
+}
+
+.padrea {display: flex;
+    float:left ;
+    
+  
+   margin: 0 auto;
+   
+}
+
+.dancin {
+    background-color: rgba(85, 177, 0, 0.753);
+    padding: 10px;
+    
+}
+
+#pie {display: flex;
+    clear: left;
+    background-color: midnightblue;
+}
+
+#cuerpo {
+    display: flex;
+    float: left;
+padding: 5px 400px;
+    background-image: url(../recursos/imagenes/bg7.png);
+    
+}
+
+#cuerpo2 {
+    display:flex ;
+    float: left;
+padding: 60px 340px;
+    background-color: rgb(198, 191, 255) ;
+
+    align-content: center;
+    
+}
+
+#cuerpo3 {
+    display: flex;
+    float: left;
+padding:90px 355px;
+   background-image: url(../recursos/imagenes/bg4.png);
+
+    align-content: center;
+    
+}
+#cuerpo4 {
+    display: flex;
+    float: left;
+padding: 20px  40px;
+   background-image: url(../recursos/imagenes/bg4.png);
+   width: 1200px;
+    align-content:left;
+   margin: auto;
+    
+}
+#cuerpo5 {
+    display: flex;
+    float: left;
+padding: 60px 338px;
+   background-image: url(../recursos/imagenes/bg4.png);
+
+    align-content: center;
+    
+}
+#padrefo {
+    margin: 1rem auto;
+    display: inline-block;
+    background-color: rgba(86, 177, 0, 0.5);
+    padding: 10px;
+    
+    column-count: 3;
+}  
+#padrevi {
+    margin: 1rem auto;
+    display: inline-block;
+    background-color: rgba(86, 177, 0, 0.5);
+    padding: 10px;
+    
+    column-count: 2;
+}  
+
+.menu2{
+    height: 1700px;
+}
+
+.menu3{
+    height: 970px;
+}
+.menu4{
+    height: 2970px;
+}
+
+.menu5 {
+    height: 400px
+
+}
+
+
+a:link {
+    margin: 10px;
+    background-color: rgb(0, 10, 54);
+    color: rgb(255, 0, 0);
+}
+a:visited {
+    margin: 10px;
+    background-color: rgb(7, 0, 44);
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    text-decoration:none;
+    color: white;
+
+}
+a:active {
+    text-decoration:none;
+    color: white;
+}
+
+a {
+    box-shadow: 10px 3px 0 0 rgb(21, 255, 0);
+}
